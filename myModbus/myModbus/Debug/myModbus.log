@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  modbusclient.cpp
+  Generating Code...
+     Creating library D:\WorkCOmmercial\RFID_and_NFC\SickAndNordicID_libs\Test1\VacuumAppDll\ModBusLibs\myModbus\Debug\myModbus.lib and object D:\WorkCOmmercial\RFID_and_NFC\SickAndNordicID_libs\Test1\VacuumAppDll\ModBusLibs\myModbus\Debug\myModbus.exp
+  myModbus.vcxproj -> D:\WorkCOmmercial\RFID_and_NFC\SickAndNordicID_libs\Test1\VacuumAppDll\ModBusLibs\myModbus\Debug\myModbus.dll
